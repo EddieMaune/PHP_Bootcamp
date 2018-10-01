@@ -1,0 +1,25 @@
+.pt td{
+    font-family:Arial, sans-serif;
+    font-size:2vw;
+    text-align: center;
+}
+.el{
+    font-weight: bold;
+    text-align: center;
+}
+.nb{
+    text-align: left;
+    font-size:1vw;
+}
+.aw{
+    text-align: right;
+    font-size:1vw;
+}
+table{
+    width: 100%;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
