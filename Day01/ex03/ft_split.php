@@ -9,5 +9,4 @@ function ft_split($str)
     
     return ($new_str);
 }
-print_r(ft_split("Hello                 199                          World                               AAA                                "));
 ?>
