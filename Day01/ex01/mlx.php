@@ -6,4 +6,5 @@ while ($i < 1000)
 	$i++;
 	echo "X";
 }
+echo "\n";
 ?>

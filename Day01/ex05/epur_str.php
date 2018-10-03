@@ -8,6 +8,6 @@
         {
             $x = str_replace("  ", " ", $x);
         }
-        echo $x;
+        echo $x."\n";
     }
 ?>

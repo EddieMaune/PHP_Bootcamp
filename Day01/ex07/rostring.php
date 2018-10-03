@@ -21,7 +21,6 @@ if ($argc > 1)
     if ($count2 > 2)
         print(' ');
     print($str[0]);
-    print("\n");
-    
+    print("\n");   
 }
 ?>

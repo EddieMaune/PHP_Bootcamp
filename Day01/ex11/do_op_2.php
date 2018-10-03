@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?PHP
 function get_current($string, $index)
 {

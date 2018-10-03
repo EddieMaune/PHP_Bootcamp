@@ -1,4 +1,3 @@
-#!/usr/bin/php
 <?PHP
     function ft_is_sort($arr)
     {
@@ -14,7 +13,4 @@
         }
         return (1);
     }
-
-    $x = array("f", "2", "3");
-    echo ft_is_sort($x);
 ?>
